@@ -1,4 +1,4 @@
-# Math API
+# America na Serie B
 
 Este é um simples jogo do time America tentando desviar da Serie B, similar ao famoso jogo do dinossauro do Chrome. O jogador controla o time América que deve desviar da a Série B e acumular pontos.
 
